@@ -5,7 +5,7 @@ For running site you are need to open a terminal in this directory and type comm
 ```bash
 npm run start
 ```
-## Link to deploying app
+## Link to deployed app
 ```bash
 https://cv-umar-khalilov-100.herokuapp.com/
 ```
