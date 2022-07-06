@@ -3,9 +3,12 @@
 For running site you are need to open a terminal in this directory and type command
 
 ```bash
-npm run start
+$ npm install
+$ npm run start
 ```
+
 ## Link to deployed app
-```bash
+
+```http request
 https://cv-umar-khalilov-100.herokuapp.com/
 ```
