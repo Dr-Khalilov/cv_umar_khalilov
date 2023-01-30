@@ -2,21 +2,22 @@
     "name": "cv_umar_khalilov",
     "version": "1.0.0",
     "description": "",
+    "private": true,
     "main": "./src/index.js",
     "scripts": {
         "start": "node ./src/index.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Dr-Khalilov/cv_umar_khalilov.git"
+        "url": "git+https://github.com/umar-khalilov/cv_umar_khalilov.git"
     },
     "keywords": [],
     "author": "Umar Khalilov",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Dr-Khalilov/cv_umar_khalilov/issues"
+        "url": "https://github.com/umar-khalilov/cv_umar_khalilov/issues"
     },
-    "homepage": "https://github.com/Dr-Khalilov/cv_umar_khalilov#readme",
+    "homepage": "https://github.com/umar-khalilov/cv_umar_khalilov#readme",
     "dependencies": {
         "express": "^4.17.3"
     },
