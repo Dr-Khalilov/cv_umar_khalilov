@@ -12,6 +12,12 @@
         "url": "git+https://github.com/umar-khalilov/cv_umar_khalilov.git"
     },
     "keywords": [],
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "volta": {
+        "node": "16.0.0"
+    },
     "author": "Umar Khalilov",
     "license": "ISC",
     "bugs": {
