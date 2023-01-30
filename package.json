@@ -15,9 +15,6 @@
     "engines": {
         "node": ">=16.0.0"
     },
-    "volta": {
-        "node": "16.0.0"
-    },
     "author": "Umar Khalilov",
     "license": "ISC",
     "bugs": {
