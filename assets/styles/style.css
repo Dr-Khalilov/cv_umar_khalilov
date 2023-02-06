@@ -5,7 +5,8 @@
 }
 
 body {
-  background: #f5f7fa;
+
+  background-color: #f5f7fa;
   /* css rule fonts */
   font-family: 'Montserrat', sans-serif;
   padding-top: 40px;
@@ -15,15 +16,16 @@ body {
 }
 
 .wrapper {
-  background: #fff;
+  background-color: #fff;
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
   box-shadow: 5px 9px 20px 0 rgba(0, 0, 0, 0.15);
 }
+
 .sidebar {
-  background: #435775;
-  width: 370px;
+  background-color: #435775;
+  max-width: 400px;
   padding-bottom: 40px;
 }
 
@@ -58,6 +60,8 @@ body {
 .contacts-link {
   font-size: 14px;
   line-height: 24px;
+  margin-left: 1rem;
+  padding: 5px;
   font-weight: 400;
   white-space: pre-wrap;
   letter-spacing: 0.03em;
@@ -65,11 +69,16 @@ body {
 }
 
 .contacts-link-type {
-  font-size: 14px;
-  line-height: 24px;
-  font-weight: 700;
-  color: #fff;
-  margin-right: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tech-skills-container,
+.soft-skills-container,
+.language-skills-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
 }
 
 .tech-skills-title,
@@ -82,21 +91,13 @@ body {
   color: #fff;
 }
 
-.tech-skills-container,
-.soft-skills-container,
-.language-skills-container {
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-top: 55px;
-}
-
 .tech-skills-item,
 .soft-skills-item,
 .language-skills-item {
   font-size: 14px;
   line-height: 24px;
   font-weight: 400;
-  margin-left: 15px;
+  margin-left: 1.5rem;
   color: #ff6b08;
 }
 
@@ -125,7 +126,6 @@ body {
   font-weight: 400;
   margin-top: 24px;
   color: #595959;
-  /* width: 415px; */
 }
 
 .info-container {
@@ -168,7 +168,7 @@ body {
 }
 
 .profession-title {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
   font-weight: 700;
   margin-top: 10px;
@@ -179,9 +179,6 @@ body {
   font-size: 16px;
   line-height: 24px;
   font-weight: 700;
-  /*
-    Text styles for "Roga & Kopyta LLC "
-    */
   color: #ff6b08;
 }
 
