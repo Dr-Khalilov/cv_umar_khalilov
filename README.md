@@ -5,5 +5,5 @@
 ## Deployed host
 
 ```http request
-https://umar-khalilov.github.io/
+https://umar-khalilov.github.io
 ```
