@@ -68,6 +68,16 @@ body {
   color: #b8babc;
 }
 
+.link {
+  font-size: 15px;
+  line-height: 24px;
+  margin: 2px;
+  padding: 5px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  color: #000;
+}
+
 .contacts-link-type {
   display: flex;
   justify-content: flex-start;
