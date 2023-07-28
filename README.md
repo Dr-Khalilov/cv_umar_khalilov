@@ -2,7 +2,7 @@
 
 # This is my curriculum vitae!
 
-## Deployed host
+## Public url
 
 ```http request
 https://umar-khalilov.github.io
